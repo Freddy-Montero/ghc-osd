@@ -2,7 +2,8 @@
 
 |Word/Phrase|Definition|
 |---|:---|
-|Project/Namespace|A mechanism to scope resources inside a cluster. It allows a community of users to organize and manage their content in isolation from other communities, with admin, edit, or view access to OpenShift objects in the project.|
+|Project/Namespace|A mechanism to scope resources inside a cluster. It allows a community of users to organize and manage their content in isolation from other communities, with admin, edit, or view access to OpenShift objects in the project.
+https://docs.okd.io/3.10/architecture/core_concepts/projects_and_users.html#namespaces|
 |Image|A binary that includes all of the requirements for running a single container, as well as metadata describing its needs and capabilities. Containers in OCP are based on Docker-formatted container images. (https://docs.okd.io/3.10/architecture/core_concepts/containers_and_images.html#docker-images) |
 |Container|Lightweight mechanisms for isolating running processes so that they are limited to interacting with only their designated resources. (https://docs.okd.io/3.10/architecture/core_concepts/containers_and_images.html#containers)|
 |Pod|One or more containers deployed together on one host. The smallest compute unit that can be defined, deployed, and managed.|
