@@ -2,9 +2,10 @@
 Welcome!
 
 ## Requirements
-To get started, follow the appropiate section below to install Docker and OpenShift CLI
-* [Docker](https://github.com/Freddy-Montero/ghc-osd/blob/master/docker_install.md).
-* [OpenShift CLI](https://github.com/Freddy-Montero/ghc-osd/blob/master/origin_install.md).
+To get started, follow the appropiate section below to install Docker, OpenShift CLI as well as create a GitHub account.
+* [Docker](https://github.com/Freddy-Montero/ghc-osd/blob/master/docker_install.md)
+* [OpenShift CLI](https://github.com/Freddy-Montero/ghc-osd/blob/master/origin_install.md)
+* [GitHub Account](https://github.com/)
 
 Check out the [intro guide](https://github.com/Freddy-Montero/ghc-osd/blob/master/intro_guide.md) to quickly learn how to build and deploy your first application on OpenShift.
 
@@ -16,7 +17,6 @@ For quick definitions of common terms, [look here](https://github.com/Freddy-Mon
 * [Python](https://github.com/Freddy-Montero/todo-app-ex)
 * [Rails](https://github.com/Freddy-Montero/rails-webapp-ex)
 * [WordPress](https://github.com/Freddy-Montero/wordpress-quickstart)
-
 
 ## Project Quickstart Ideas
 The beauty of OpenShift is that you can deploy any type of application, which allows you to get creative based on your interests. To get you started on this GHC Hackathon, we've come up
