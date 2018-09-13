@@ -44,7 +44,7 @@ However, the general workflow is:
 I guess changing your PATH is considered an advanced task? :)
 * Click on the advanced tab, and then finally
 * click on Environment variables.
-Once the new dialog opens, select the Path variable and add ;C:\OpenShift at the end.
+Once the new dialog opens, select the Path variable and add **;C:\OpenShift** at the end.
 For an easy way out, you could always just copy it to C:\Windows or a directory you know is already on your path.
 
 For more detailed instructions:
