@@ -155,8 +155,11 @@ If you get an error message, you have not updated your path correctly. If you ne
 
 ### Tab Completion
 
-The OpenShift command line tool supports the ability to use tab completion for the popular zsh and bash shells. This suits the needs of users using either Linux or OS X. If you are using Microsoft Windows, never fear, we will discuss some ways to get tab completion working on that operating system as well.
-Tab completion on Mac and Linux
+The OpenShift command line tool supports the ability to use tab completion for the popular zsh and bash shells. This suits the needs of users using either Linux or OS X. 
+
+If you are using Microsoft Windows, never fear, we will discuss some ways to get tab completion working on that operating system as well.
+
+#### Tab completion on Mac and Linux
 
 If you are on the Mac operating system, you will need to ensure that you have the bash-completion project installed. This can be accomplished using the popular brew system:
 
@@ -164,7 +167,7 @@ If you are on the Mac operating system, you will need to ensure that you have th
 $ brew install bash-completion
 ```
 
-If you’re on Linux, ensure you have bash-completion installed using your package manager (dnf, yum apt-get,…​)
+If you’re on Linux, ensure you have **bash-completion** installed using your package manager (dnf, yum apt-get,…)
 
 Once bash-completion package is available in your machine, to enable tab completion in your shell, you can simply enter in the following command from your terminal
 
@@ -187,4 +190,4 @@ Alternatively, you can add this to your .zshrc file.
 
 For Windows users, things become a bit more tricky. You could of course use the Linux Subsystem for Windows but you may want to consider using a combination of babun and cmder. For a full list of instructions, you can check out the following blog post:
 
-    https://blog.openshift.com/openshift-3-tab-completion-for-windows/
+https://blog.openshift.com/openshift-3-tab-completion-for-windows/
