@@ -36,9 +36,11 @@ In order to extract a zip archive on windows, you will need a zip utility instal
 
 Now you can add the OpenShift CLI tools to your PATH.
 Because changing your PATH on windows varies by version of the operating system, we will not list each operating system here.
-However, the general workflow is
-* right click on your computer name inside of the file explorer.
+
+However, the general workflow is:
+* Right click on your computer name inside of the file explorer.
 * Select Advanced system settings.
+
 I guess changing your PATH is considered an advanced task? :)
 * Click on the advanced tab, and then finally
 * click on Environment variables.
