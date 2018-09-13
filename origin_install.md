@@ -123,7 +123,7 @@ Once the file has been downloaded, you will need to extract the contents as it i
 Open up a terminal window and change to the directory where you downloaded the file. Once you are in the directory, enter in the following command:
 
 <blockquote>
-***The name of the oc packaged archive may vary. Adjust accordingly.***
+The name of the oc packaged archive may vary. Adjust accordingly.
 </blockquote>
 
 ```
