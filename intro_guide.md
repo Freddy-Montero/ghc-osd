@@ -62,3 +62,7 @@ In Terminal, login with `oc login -u system:admin` to get full cluster-admin acc
 5. If you scroll down, you’ll see the running pod(s) containing your application. Click on a pod, then **Logs**, to view the application logs as they run in your container.
 
 6. Go to the **Overview** page to see an aggregated view of your project. Click on the large URL above all of the application components and you’ll see your deployed application!
+
+### OpenShift Labs ###
+Run through these labs if you would like to learn more about OpenShift. They will guide to create an application that allows you to map out parks in the US. You can build off this project to use it capabilities for a humantartian project when you are done.
+* [OpenSHift Labs](http://starter-guides-infra.apps.ghc2018.openshiftworkshop.com/index.html#/workshop/workshop/module/common-environment)
