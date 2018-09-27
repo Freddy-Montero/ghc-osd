@@ -65,4 +65,4 @@ In Terminal, login with `oc login -u system:admin` to get full cluster-admin acc
 
 ### OpenShift Labs ###
 Run through these labs if you would like to learn more about OpenShift. They will guide to create an application that allows you to map out parks in the US. You can build off this project to use it capabilities for a humantartian project when you are done.
-* [OpenSHift Labs](http://starter-guides-infra.apps.ghc2018.openshiftworkshop.com/index.html#/workshop/workshop/module/common-environment)
+* [OpenSHift Labs](http://starter-guides-ghc18.apps.ghc18.openshiftworkshop.com/index.html#/workshop/workshop/module/common-environment)
